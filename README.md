@@ -2,7 +2,7 @@
 
 ## Hello, my name is Cleber! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
 
- [![Linkedin Badge](https://img.shields.io/badge/-CleberSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/cleber-nascimento-da-silva-aba8735b/](https://www.linkedin.com/in/cleber-nascimento-da-silva-aba8735b/)](https://www.linkedin.com/in/cleber-nascimento-da-silva-aba8735b/)
+ [![Linkedin Badge](https://img.shields.io/badge/-CleberSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-nascimento-da-silva-aba8735b/](https://www.linkedin.com/in/cleber-nascimento-da-silva-aba8735b/)](https://www.linkedin.com/in/cleber-nascimento-da-silva-aba8735b/)
  [![Gmail Badge](https://img.shields.io/badge/-cleber_md2@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cleber_md2@hotmail.com "Connect via Email")
  
  I am Cleber, and I am currently:
