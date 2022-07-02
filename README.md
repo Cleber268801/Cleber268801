@@ -1,6 +1,6 @@
 
 
-## Hello, my name is Cleber! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
+## Hello, my name is Cleber! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="05px">
 
  [![Linkedin Badge](https://img.shields.io/badge/-CleberSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-nascimento-da-silva-aba8735b/)](https://www.linkedin.com/in/cleber-nascimento-da-silva-aba8735b/)
  [![Gmail Badge](https://img.shields.io/badge/-cleber_md2@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cleber_md2@hotmail.com "Connect via Email")
@@ -24,7 +24,7 @@ but I am always learning everyday!
 
 ### Languages 
 
-
+![Angular](https://img.shields.io/badge/Angular-F80000?&style=for-the-badge&logo=Angular&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -65,6 +65,8 @@ but I am always learning everyday!
 ### Frameworks
 
 ![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=323330)
+
 
   
 
